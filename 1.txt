@@ -1,1 +1,1 @@
-foofoofoobarbaz
+foo
